@@ -2,4 +2,4 @@
 
 test
 
-baska arkadas kod
+neden olmadi 
